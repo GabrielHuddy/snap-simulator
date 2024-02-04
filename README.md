@@ -40,4 +40,5 @@ java -jar snap-simulator.jar --help
 
 ## Troubleshooting
 - Ensure the `java` command in your terminal points to Java 21.
-- If you cannot run the jar file, you can also try adding CLI arguments from IntelliJ IDEA through 
+- If you cannot run the jar file, you can also try adding CLI arguments from IntelliJ IDEA under
+  `Main Menu -> Run -> Edit Configurations -> Program Arguments`.
