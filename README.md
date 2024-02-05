@@ -42,6 +42,8 @@ java -jar snap-simulator.jar --help
 - Ensure the `java` command in your terminal points to Java 21.
 - If you cannot run the jar file, you can also try adding CLI arguments from IntelliJ IDEA under
   `Main Menu -> Run -> Edit Configurations -> Program Arguments`.
+- If you are having trouble getting the project to build, you can instead use a precompiled binary available on the
+  [release page](https://github.com/GabrielHuddy/snap-simulator/releases).
 
 ## Unit Tests
 While unit tests have not really been properly implemented, a couple unit test cases can be found in the `src/test`
